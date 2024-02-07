@@ -3,7 +3,6 @@ There are three categories of methods to raise money for a FIRST team:
 * Grant Writing
 * Fundraisers
 Broadly speaking, Sponsorships involve an ongoing relationship with some entity that has money, whether a company, a private foundation, an individual, or some other such entity.  Grant Writing is the art of submitting applications for funds to entities who have offered them for some purpose, usually at some reasonable level of scale. Fundraisers are a broad category of action where you have some event or drive, where you provide something of value to people, in exchange for more money than the value you provided them.
-
 # Sponsorships
 Sponsors are the financial backbone of a sustainable team, and most sustainable nonprofit ventures in the world at large. Sponsorships are first and foremost a relationship with some entity who provides your team with resources regularly, usually annually. There are two primary types of sponsorship, Cash, and In-Kind. Cash sponsorships are, as one may expect, someone writing your team a check. In-Kind sponsorships involve the sponsor providing goods or services rather than cash. Some sponsors will offer some mix of in-kind and cash donations, where the total value of the sponsorship is the sum of these two components' value.
 
@@ -39,7 +38,7 @@ Let's consider an example of a hypothetical team with the number 9989 called Bli
 | Tier Amount | Tier Name | Tier Benefits |
 | --- | --- | --- |
 | $100+  | Cold Front | Receive quarterly newsletter and annual impact report, name on website list of sponsors |
-| $500+ | Flurry |  |
+| $500+ | Flurry | Hand-written thank you, invitation to annual sponsor mixer and robot reveal events |
 | $1000+ | Squall | Name or logo on robot and team t-shirt, receive two team t-shirts per year |
 | $2500+ | Snowstorm |  A medal each time we earn them at competition, framed team photo each year |
 | $5000+ | Permafrost | A demo, lunch & learn, or FRC tech talk at your business within 100mi of our school each year |
