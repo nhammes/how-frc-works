@@ -2,6 +2,7 @@ There are three categories of methods to raise money for a FIRST team:
 * Sponsorships
 * Grant Writing
 * Fundraisers
+
 Broadly speaking, Sponsorships involve an ongoing relationship with some entity that has money, whether a company, a private foundation, an individual, or some other such entity.  Grant Writing is the art of submitting applications for funds to entities who have offered them for some purpose, usually at some reasonable level of scale. Fundraisers are a broad category of action where you have some event or drive, where you provide something of value to people, in exchange for more money than the value you provided them.
 # Sponsorships
 Sponsors are the financial backbone of a sustainable team, and most sustainable nonprofit ventures in the world at large. Sponsorships are first and foremost a relationship with some entity who provides your team with resources regularly, usually annually. There are two primary types of sponsorship, Cash, and In-Kind. Cash sponsorships are, as one may expect, someone writing your team a check. In-Kind sponsorships involve the sponsor providing goods or services rather than cash. Some sponsors will offer some mix of in-kind and cash donations, where the total value of the sponsorship is the sum of these two components' value.
@@ -33,6 +34,7 @@ While precious metals are the classic choice because they work well, there are p
 * Descriptors of the impact of donations (Sustaining, Supporting, Key)
 * Descriptors of the depth of relationship (Friend, Partner, Supporter, Advocate)
 * Tiers based on team brand ([2910](https://frcteam2910.org/fundraising/), [6956](https://drive.google.com/file/d/1ffBeHaKky1uDXfdl_CWIXMxBVie5L9vR/view))
+
 #### Putting it all together
 Let's consider an example of a hypothetical team with the number 9989 called Blizzard Robotics. They have a budget of $45,000, and get 2/3 of that each year from sponsors, with a few really large local corporate sponsors, and a lot of parents and local businesses giving a few hundred dollars each. They're focusing on growing that middle section of sponsors.
 | Tier Amount | Tier Name | Tier Benefits |
