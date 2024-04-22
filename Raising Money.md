@@ -44,10 +44,27 @@ Let's consider an example of a hypothetical team with the number 9989 called Bli
 | $1000+ | Squall | Name or logo on robot and team t-shirt, receive two team t-shirts per year |
 | $2500+ | Snowstorm |  A medal each time we earn them at competition, framed team photo each year |
 | $5000+ | Permafrost | A demo, lunch & learn, or FRC tech talk at your business within 100mi of our school each year |
-#### Other thoughts
+
+## Timing
+When managing relationships with sponsors, particularly when you make promises in your sponsor tiers with a time component, it's important to be on top of things, and consistent. To this end, it's very important to have a plan that you actively use and iterate on as needs evolve. The constraints that shape your plan vary from team to team, and from sponsor to sponsor, and will change over the course of a team's relationship with an individual sponsor. There are some broad trends that may be helpful in shaping the constraints you plan around:
+
+* It's easier to get a robot to a sponsor demo event during the build season
+* Larger corporate sponsors tend to have a Corporate Social Responsibility person (or even, department) whose job it is to sponsor groups like FIRST teams, and they may have relationships with dozens of teams, who all want to communicate with them with some regularity
+	* They probably have an annual outreach budget, and being able to demonstrate impact to their leadership may allow them to increase that budget. This demonstration might happen through an on-site event, or perhaps through quantitative reports showing what the money funded, but there's likely some ideal time of year on their side.
+* Smaller companies and individual sponsorships will naturally have less indirection between your contact and the person who decides how much money to spend, who might even be the same person. 
+	* You might try inviting the decision-maker to one of your competitions to witness FIRST in-person. People who can allocate more money tend to have more complex schedules, so getting the invitation out there early is important, and you may need to follow up closer to the event. This can be a powerful technique for nurturing and growing relationships, since they get to see qualitatively what effect their funding has on your team.
+		* Depending on your sponsor's relationship with FIRST, interest in the program beyond your team, you may consider reaching out to event leadership for your competition about VIP/sponsor relations activities at your competition. There might not be anything available for team sponsors, but it's worth asking.
+	* Even if the sponsor is quantitatively driven, it's important not to forget the human element; robots, FIRST events, and all the goings-on within a team are very interesting and impressive to people who aren't accustomed and deeply familiar with them. Make sure your updates, offers, and interactions have a personal touch, especially if the sponsor is deeply-invested in your team, or you're trying to deepen that investment.
+* It's a better use of your time in the short-term to personalize interactions more with sponsors who give more, but long-term, a personal touch with smaller sponsors can be an effective way to grow those relationships. The ideal strategy tends to be a balance between optimizing for these two goals.
+
+### Example Schedule
+
+
+## Other thoughts
 Some teams also consider that individual and corporate sponsors in their area have different enough scales of budgets, and different enough needs to have two different scales, and sets of rewards. This does add complexity, and can double the number of things you need to think about in recognizing sponsors. If you have a large number of individual sponsors, this may be worth consideration.
 
-Some teams offer special Sponsor Recognitions, or Sponsor Awards to thank sponsors who go above and beyond, or step up in some big way. This makes sense for teams with a lot of sponsors and a growing program, but may not be as useful for teams with fewer sponsors, or who aren't actively growing those relationships. This is a sign of a pretty mature program in my mind.
+Some teams offer special Sponsor Recognitions, or Sponsor Awards to thank sponsors who go above and beyond, or step up in some big way. This makes sense for teams with a lot of sponsors and a growing program, but may not be as useful for teams with fewer sponsors, or who aren't actively growing those relationships. I view this as a sign of a reasonably mature program, since you've not only built deep relationships with sponsors to the point they go above and beyond, but your focus is on cultivating rather than building.
 # Grant Writing
 
 # Fundraisers
+Any time you're organizing activities for your team that bring in more money than they cost is a fundraiser. This can be the most fun way for a team to raise money, because of the sheer design space available, but can also be the least fun if you put a lot of work into an event and end up with little to show for it. Some fundraisers are events, others are activities spread out over a longer period of time.
