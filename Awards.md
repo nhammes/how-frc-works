@@ -62,7 +62,12 @@ This means that the award scripts tell you how the Judges saw you. The things yo
 
 Also, this isn't as widely-known as I would hope, but scripts are available after the event in the [frc-events](https://frc-events.firstinspires.org/) tool, to the public. As an example, see the awards page for the [2024 Central Valley Regional](https://frc-events.firstinspires.org/2024/CAFR/awards). You might use this to check scripts that you may not have heard every word of for an event, or as part of your competition analysis to look at awards teams you're competing with won the previous season. Note that the system that stores scripts is relatively new, and data gets less complete the further back you go pretty quickly. Most events in 2024 have most award scripts, and I expect this to be true going forward.
 ## Trophies
+Trophies aren't cheap; why does FIRST hand them out? I believe that the intended function of a trophy is closely tied to what it is; a reasonably-universal symbol recognizing an accomplishment. The size and impressiveness of the trophy is generally proportional to the accomplishment it recognizes, and most people understand this intuitively.
 
+That effect makes trophies a useful tool, should teams choose to use them. A trophy can be something you bring to a community event to help people understand that you do cool things. You can send one to a sponsor or partner whose help was pivotal in earning it, to thank them for their support. (You can [buy more](https://frc.firstinspiresawards.com/) if needed.) You can put one up in a trophy cabinet alongside your high school's football team trophies to symbolize a similar degree of respect.
+
+In addition to an actual trophy, winning an award comes with a plaque, and some awards come with medals. These can serve similar purposes, and I've seen some creative uses of them, like teams framing a medal alongside a team photo as a sponsor thank you gift. They're a powerful tool available to you for winning an award, should your team choose to use it.
 # Earning Awards
+
 
 # A Roadmap
